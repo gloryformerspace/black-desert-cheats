@@ -2,7 +2,7 @@
 
 # [![Status](https://img.shields.io/badge/Status-Updated-brightgreen)]()
 
-!Version(https://img.shields.io/badge/Version-Latest-blue)()
+[!Version(https://img.shields.io/badge/Version-Latest-blue)]()
 
 **Tags:** `game` `download` `downloads` `gaming` `release` `latest` `install` `setup`
 
